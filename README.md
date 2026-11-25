@@ -1,5 +1,7 @@
 # NExT Algolia Static URL Rewrite
 
+[![Try in WordPress Playground](https://img.shields.io/badge/Try%20in-WordPress%20Playground-3858e9?logo=wordpress)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/AtsushiA/next-algolia-static-url-rewrite/main/blueprint.json)
+
 WordPress を静的化して別ドメインで公開する運用において、[wp-search-with-algolia](https://wordpress.org/plugins/wp-search-with-algolia/) によるインデックス時に WordPress の動作URLを静的公開URLに置き換えるプラグインです。
 
 ## 背景・課題
